@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\blog",
-    "\\BlogApplication",
-    "\\blog\\static",
-    "\\blog\\static\\blog",
-    "\\blog\\templates\\blog"
+    "\\blog"
   ],
-  "SelectedNode": "\\blog\\static\\blog\\main.css",
+  "SelectedNode": "\\blog\\models.py",
   "PreviewInSolutionExplorer": false
 }
