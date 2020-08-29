@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\blog",
     "\\BlogApplication",
-    "\\blog\\static\\blog",
-    "\\users",
-    "\\users\\templates",
-    "\\users\\templates\\users"
+    "\\blog\\templates",
+    "\\profile_pics"
   ],
   "PreviewInSolutionExplorer": false
 }
